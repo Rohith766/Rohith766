@@ -1,19 +1,5 @@
 ### Hi there 👋
 
-<!--
-**Rohith766/Rohith766** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 ## About me
 I'm Entry-level data analytics professional. Excellent understanding and proficiency of platforms for effective data analyses, including SQL. Sheets, Excel, Tableau, and R. Strong communication, organizational, and analytical skills. Looking for a challenging career in the same domain that will test my skills and provide me with the opportunity to grow my knowledge and build intelligent applications and models to analyze data and drive important results from it
 ## Languages and Frameworks
@@ -21,6 +7,22 @@ I'm Entry-level data analytics professional. Excellent understanding and profici
 <!-- </a> <img src="" width="40" height="40"/> -->
 <!-- #### <p align="center"> Check out my Portfolio - Website [here](https://ankitakokkera.netlify.app/)! </p> -->
 
-## Reach me 
+## Progress
+
+- 🔭 I’m currently working on Data Analytics Projects and expanding my scope.
+- 🌱 I’m currently learning Analytics.
+- 👯 I’m looking to collaborate on Data Analytics and Hackathons.
+- 📫 How to reach me: [Email](mailto:gr4361@srmist.edu.in)!
+<!--- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+<!--- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
+## Reach me at
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Rohith766)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/rohith-gv/)
+
+<!--## Profile Stats
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rohith766&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+ -->
