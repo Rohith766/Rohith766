@@ -22,7 +22,7 @@ I'm Entry-level data analytics professional. Excellent understanding and profici
 ## Reach me at
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Rohith766)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/rohith-gv/)
-[<img src='https://cdn-icons-png.flaticon.com/512/6646/6646510.png' alt='Portfolio Website' height='41'>](https://icons8.com/icon/8XcT64O32Des/r)
+[<img src='https://cdn-icons-png.flaticon.com/512/6646/6646510.png' alt='Portfolio Website' height='41'>](https://rohith766.github.io/portfoilo-website/)
 <!--## Profile Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rohith766&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
  -->
