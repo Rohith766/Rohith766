@@ -10,7 +10,7 @@ I'm Entry-level data analytics professional. Excellent understanding and profici
 ## Progress
 
 - 🔭 I’m currently working on Data Analytics Projects and expanding my scope.
-- 🌱 I’m currently learning Analytics.
+- 🌱 I’m currently learning ML and DL.
 - 👯 I’m looking to collaborate on Data Analytics and Hackathons.
 - 📫 How to reach me: [Email](mailto:gr4361@srmist.edu.in)!
 - ⚡ Fun fact: I'd spends my free time binge watching TV Shows :) 
