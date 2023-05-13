@@ -29,3 +29,5 @@ I'm Entry-level data analytics professional. Excellent understanding and profici
  
  ## Most uses Language
  ><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Rohith766&show_icons=true&locale=en&layout=compact" alt="Rohith766" /></p>
+ >
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Rohith766&show_icons=true&locale=en" alt="Rohith766" /></p>
